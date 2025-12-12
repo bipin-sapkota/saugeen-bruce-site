@@ -1,0 +1,29 @@
+{
+  "tours": [
+    {
+      "title": "Nokomis Dawn Walk",
+      "duration": "4 hours",
+      "note": "Focused on morning light and lake horizon stories."
+    },
+    {
+      "title": "Lakeside Evening Circle",
+      "duration": "3 hours",
+      "note": "Wind-down session beside a quiet bay with guided reflection prompts."
+    },
+    {
+      "title": "Trail & Watershed Immersion",
+      "duration": "Full-day",
+      "note": "In-depth conversation about local stewardship and seasonal practices."
+    }
+  ],
+  "workshops": [
+    {
+      "title": "Listening to Limestone",
+      "focus": "Understanding how geology shapes water flow and habitat."
+    },
+    {
+      "title": "Calm Field Journaling",
+      "focus": "Scripted prompts that pair sensory impressions with map-reading."
+    }
+  ]
+}

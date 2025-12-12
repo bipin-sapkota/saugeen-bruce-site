@@ -1,0 +1,37 @@
+{
+  "overview": "The Nokomis Trail is structured around gentle story stations, layered listening moments, and a gathering space that modulates between shelter and openness.",
+  "storyStationsNote": "Proposed 5–7 story stations with interpretive signage and QR codes linking to SON-approved audio narration. Examples below highlight the tone of those stations.",
+  "storyStations": [
+    {
+      "title": "Lakewatch Knoll",
+      "description": "Layers of limestone and misty morning light offer room to reflect on freshwater stewardship.",
+      "listenLabel": "Listen to lake whispers"
+    },
+    {
+      "title": "Cedar Throat",
+      "description": "Ancient cedar walls cradle the sound of wind, creating an intimate setting for the trail keeper’s short reflections.",
+      "listenLabel": "Listen to cedar stories"
+    },
+    {
+      "title": "Sandbar Rill",
+      "description": "A quiet sand spit that frames the shoreline’s slow migrations and invites mindful breathing.",
+      "listenLabel": "Listen to pebble ripples"
+    }
+  ],
+  "gatheringSpace": {
+    "title": "Gathering Space (Amphitheatre)",
+    "description": "An amphitheatre-like circle for shared storytelling, teaching moments, and calm pauses before continuing down the trail."
+  },
+  "welcomeCentre": {
+    "title": "Welcome Circle",
+    "description": "A low-profile pavilion opening toward the lake, where guests receive context for the day and learn how to move softly through each section of the trail.",
+    "details": "Coordinated departure points ensure we arrive with minimal impact.",
+    "hours": "Hours to be confirmed during launch."
+  },
+  "trailFacts": [
+    { "label": "Length", "value": "2 km" },
+    { "label": "Elevation", "value": "140 m rolling" },
+    { "label": "Duration", "value": "4-5 hours (guided)" },
+    { "label": "Group Size", "value": "Max 14 people" }
+  ]
+}

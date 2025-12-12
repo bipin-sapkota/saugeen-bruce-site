@@ -1,0 +1,38 @@
+{
+  "principles": [
+    {
+      "title": "Quiet Presence",
+      "description": "We move without imposing sound, honoring the delicate balance of wildlife and guests."
+    },
+    {
+      "title": "Minimal Footprint",
+      "description": "Structures are low-profile, and we manage waste through carry-in, carry-out protocols."
+    },
+    {
+      "title": "Guided Reciprocity",
+      "description": "Every encounter is framed as listening, and we share what we learn with the broader community."
+    }
+  ],
+  "practices": [
+    {
+      "title": "Trail Care",
+      "details": "Seasonal maintenance is done by small crews who move quietly and plant native saplings when needed."
+    },
+    {
+      "title": "Water Stewardship",
+      "details": "All water used onsite is filtered, and runoff is directed naturally back into the watershed."
+    },
+    {
+      "title": "Community Sharing",
+      "details": "A portion of every tour supports conservation grants and cultural programs along the peninsula."
+    }
+  ],
+  "culturalProtocols": {
+    "title": "Cultural Sustainability & Ethics",
+    "bullets": [
+      "SON maintains editorial control over stories shared on-site and online.",
+      "Cultural protocols guide what is shared and how it is shared.",
+      "Sacred knowledge is protected and not made public."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "formCopy": "Share the season you hope to visit, the size of your party, and any accessibility notes. We'll get back to you as soon as possible.",
+  "contactOptions": [
+    {
+      "type": "Reservations",
+      "detail": "info@saugeenbruce.com (placeholder)",
+      "note": "Preferred for journey planning and bookings."
+    },
+    {
+      "type": "General enquiries",
+      "detail": "info@saugeenbruce.com (placeholder)",
+      "note": "Available weekdays 9am-5pm EST."
+    },
+    {
+      "type": "Media",
+      "detail": "media@saugeenbruce.com (placeholder)",
+      "note": "Please include an overview of your project."
+    }
+  ]
+}

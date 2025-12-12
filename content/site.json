@@ -1,0 +1,31 @@
+{
+  "brandName": "Saugeen Bruce",
+  "tagline": "Saugeen Bruce: Where the Land Remembers. Listen.",
+  "primaryCTA": {
+    "label": "Plan Your Visit",
+    "href": "/plan"
+  },
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "Experience", "href": "/experience" },
+    { "label": "Tours", "href": "/tours" },
+    { "label": "Plan", "href": "/plan" },
+    { "label": "Sustainability", "href": "/sustainability" },
+    { "label": "About", "href": "/about" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "footer": {
+    "disclaimer": "We honor the Saugeen Ojibway Nation and the Bruce Peninsula as shared territory and steward the Nokomis Trail with gratitude.",
+    "nav": [
+      { "label": "Plan", "href": "/plan" },
+      { "label": "Sustainability", "href": "/sustainability" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "social": [
+      { "label": "Instagram", "href": "https://instagram.com" },
+      { "label": "YouTube", "href": "https://youtube.com" },
+      { "label": "Email", "href": "mailto:welcome@saugeenbruce.com" }
+    ]
+  },
+  "showMarketingPlan": false
+}

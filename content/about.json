@@ -1,0 +1,28 @@
+{
+  "mission": "We invite visitors to slow down, listen, and walk deliberately across the Bruce Peninsula while honoring the land as teacher and host.",
+  "governance": "A collective of local stewards, knowledge keepers, and conservation partners oversee Nokomis Trail programming and uphold ethical tourism standards.",
+  "partners": "We work with Saugeen Ojibway Nation advisors, regional conservation authorities, and small hospitality partners committed to respectful tourism.",
+  "acknowledgements": "With gratitude to the stewards of the Bruce Peninsula, past and present, whose care makes this place possible.",
+  "stakeholders": [
+    {
+      "name": "Saugeen Ojibway Nation (SON)",
+      "role": "Lead guides, storytellers, cultural decision-makers."
+    },
+    {
+      "name": "Parks Canada",
+      "role": "Supports conservation and co-developed programs."
+    },
+    {
+      "name": "Municipality",
+      "role": "Supports visitor flow and local infrastructure."
+    },
+    {
+      "name": "Local Tourism Businesses",
+      "role": "Offer SON-led experiences and hospitality support."
+    },
+    {
+      "name": "Visitors & Tourists",
+      "role": "Engage respectfully and gain meaningful learning experience."
+    }
+  ]
+}
