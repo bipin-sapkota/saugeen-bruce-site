@@ -6,6 +6,16 @@ export type StoryStation = {
   listenLabel: string;
 };
 
+const storyStationImages: Record<string, string> = {
+  "Lakewatch Knoll": "/images/Lakewatch-Knoll.jpeg",
+  "Cedar Throat": "/images/Cedar-Throat.jpeg",
+  "Sandbar Rill": "/images/Sandbar-Rill.jpeg",
+};
+
+function getStoryStationImage(title: string) {
+  return storyStationImages[title] ?? "/images/story-station.svg";
+}
+
 export function StoryStationList({
   stations,
 }: {
@@ -21,8 +31,8 @@ export function StoryStationList({
           <div className="space-y-4">
             <div className="relative h-36 w-full overflow-hidden rounded-2xl">
               <Image
-                src="/images/story-station.svg"
-                alt={station.title}
+                src={getStoryStationImage(station.title)}
+                alt={`${station.title} view`}
                 fill
                 sizes="(max-width: 768px) 100vw, 33vw"
                 className="object-cover"
