@@ -3,6 +3,7 @@ import { Button } from "@/components/Button";
 import { Hero } from "@/components/Hero";
 import { MotionReveal } from "@/components/MotionReveal";
 import { Section } from "@/components/Section";
+import { ImageCarousel } from "@/components/ImageCarousel";
 
 export default function HomePage() {
   return (
@@ -30,6 +31,13 @@ export default function HomePage() {
           </div>
         </Section>
       </MotionReveal>
+      {home.carousel && (
+        <MotionReveal>
+          <Section title={home.carousel.title}>
+            <ImageCarousel images={home.carousel.images} />
+          </Section>
+        </MotionReveal>
+      )}
       {home.issue && (
         <MotionReveal>
           <Section

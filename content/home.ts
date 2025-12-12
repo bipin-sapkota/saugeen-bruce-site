@@ -40,6 +40,15 @@ const home = {
     ],
   },
   supportingTagline: "A calm, dignified invitation to the Nokomis Trail and the Bruce Peninsula’s sheltered coastlines.",
+  carousel: {
+    title: "The Peninsula, in quiet motion",
+    images: [
+      { src: "/images/peninsula-1.jpeg", alt: "Sunset light spilling across the northern shoreline" },
+      { src: "/images/peninsula-2.jpeg", alt: "Overlook of lakes, forest, and gentle limestone ridges" },
+      { src: "/images/peninsula-3.jpeg", alt: "Cave mouth framing turquoise waters and rugged ledges" },
+      { src: "/images/peninsula-4.jpeg", alt: "Natural stone arch peering over the calm sea" },
+    ],
+  },
   ctaBanner: {
     headline: "Ready to plan a respectful journey?",
     subtext:
