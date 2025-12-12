@@ -21,7 +21,11 @@ export default function ContactPage() {
                 className="rounded-2xl border border-border bg-surface p-5"
               >
                 <p className="text-xs uppercase tracking-[0.4em] text-muted">{option.type}</p>
-                <p className="text-lg font-semibold text-text">{option.detail}</p>
+                <p className="text-lg font-semibold text-text">
+                  <a href={`mailto:${option.detail}`} className="underline-offset-2 hover:underline">
+                    {option.detail}
+                  </a>
+                </p>
                 <p className="text-sm text-muted">{option.note}</p>
               </article>
             ))}

@@ -3,17 +3,17 @@
   "contactOptions": [
     {
       "type": "Reservations",
-      "detail": "info@saugeenbruce.com (placeholder)",
+      "detail": "reservations@saugeenbruce.com",
       "note": "Preferred for journey planning and bookings."
     },
     {
       "type": "General enquiries",
-      "detail": "info@saugeenbruce.com (placeholder)",
+      "detail": "hello@saugeenbruce.com",
       "note": "Available weekdays 9am-5pm EST."
     },
     {
       "type": "Media",
-      "detail": "media@saugeenbruce.com (placeholder)",
+      "detail": "media@saugeenbruce.com",
       "note": "Please include an overview of your project."
     }
   ]

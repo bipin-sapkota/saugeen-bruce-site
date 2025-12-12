@@ -1,4 +1,4 @@
-import home from "@/content/home.json";
+import home from "@/content/home";
 import { Button } from "@/components/Button";
 import { Hero } from "@/components/Hero";
 import { MotionReveal } from "@/components/MotionReveal";
